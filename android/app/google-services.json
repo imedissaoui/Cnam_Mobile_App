@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "515421972363",
+    "project_id": "cnam-bbc01",
+    "storage_bucket": "cnam-bbc01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515421972363:android:6d7d222a8dfca99390318e",
+        "android_client_info": {
+          "package_name": "com.example.pcd2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515421972363-rioc8cabs88ft3852dssdbf40ct0fd84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9iiVtGzr4jYe_ry8wpV_cY6eOTHw6I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515421972363-rioc8cabs88ft3852dssdbf40ct0fd84.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515421972363-ovdmok6qaqklg9tdisp8lgb49ub3idhm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pcd2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
